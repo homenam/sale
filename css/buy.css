@@ -1,0 +1,34 @@
+*{margin: 0px;
+box-sizing: border-box;}
+.header{
+	width: 100%;
+	height: auto;
+}
+.footer-end{
+	width: 100%;
+	height: auto;
+}
+.aside-body{
+	width: 100%;
+	height: 500px;
+	background-color: white;
+}
+.bg-secondary{
+
+	width: 100%
+	height:auto;
+}
+
+
+.form11 input{
+	margin:6px;
+	border-radius: 5px;
+}
+.icon-footer a{
+	text-decoration: none;
+
+}
+.main{
+	width: 100%;
+	height: 500px;background-color: white;
+}
